@@ -74,11 +74,11 @@ We constructed a product module in our first lab. Then we'll add a brand, a prod
 
 
 - **The Category model**
-![](/e_commerce_aayush/lab_manual/images/c1.PNG)
+![](/lab_manual/images/c1.PNG)
 
 -**The Product model**
-![](/ecommerce_lab1/ecommerce_aayush/lab_manual/images/pro1.PNG)
-![](/ecommerce_lab1/ecommerce_aayush/lab_manual/images/pro2.PNG)
+![](/lab_manual/images/pro1.PNG)
+![](/lab_manual/images/pro2.PNG)
 
 ## Conclusion
 As a result, we constructed the Brand, Category, and Product models for our ecommerce site in our third lab. Models are inherited by all three models. Model. The product and brand, as well as the category model, are linked by a one-to-many relationship. We've also made use of django's many data kinds.
