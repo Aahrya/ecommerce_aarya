@@ -8,7 +8,7 @@
 
 ## Introduction
 We constructed a product module in our first lab. Then we'll add a brand, a product, and a category to the product module, which also has the er model structure shown below:
-![Er diagram, the product module](/ecommerce_lab1/ecommerce_aayush/lab_manual/images/er.PNG)
+![Er diagram, the product module](/lab_manual/images/er.PNG)
 
 ## Procedure 
 - **In the models.py file, add the model Brand.**
@@ -66,15 +66,15 @@ We constructed a product module in our first lab. Then we'll add a brand, a prod
 - **Adding the models Brand, Category and Product**
 
 
-![](/ecommerce_lab1/ecommerce_aayush/lab_manual/images/p1.PNG)
+![](/lab_manual/images/p1.PNG)
 
 - **The Brand model**
-![](/ecommerce_lab1/ecommerce_aayush/lab_manual/images/b1.PNG)
-![](/ecommerce_lab1/ecommerce_aayush/lab_manual/images/b2.PNG)
+![](/lab_manual/images/b1.PNG)
+![](/lab_manual/images/b2.PNG)
 
 
 - **The Category model**
-![](/ecommerce_lab1/ecommerce_aayush/lab_manual/images/c1.PNG)
+![](/e_commerce_aayush/lab_manual/images/c1.PNG)
 
 -**The Product model**
 ![](/ecommerce_lab1/ecommerce_aayush/lab_manual/images/pro1.PNG)
