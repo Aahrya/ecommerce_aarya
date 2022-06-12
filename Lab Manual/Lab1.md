@@ -20,9 +20,9 @@ Database verification and CRUD operations
 Then, we added a module product_module and migrated files to the database. Now, we were able to do CRUD operations on the server. Syntax: python manage.py startapp product_module ……. python manage.py runserver
 
 Source Control
-Finally, we used Git for source control. We created a repository with the name ecommerce_barun and created a markdown file “lab1.md” which is this document. Then, we committed and pushed the code and folder to the repository.https://github.com/Aahrya/ecommerce_aarya/blob/main/product_module/Lab%20Manual/Lab1.md
+Finally, we used Git for source control. We created a repository with the name ecommerce_barun and created a markdown file “lab1.md” which is this document. Then, we committed and pushed the code and folder to the repository.https://github.com/Aahrya/ecommerce_aarya/tree/main/Lab%20Manual
 d. Output Installation of python| pip alt text
-
+C
 Creation of project folder alt text
 
 Migration alt text
