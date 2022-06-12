@@ -13,11 +13,27 @@ Github account for Python Pip Sqlite DBeaver Django VS Code We already had some 
 
 Migrating and creating users
 We started the project and moved files after setting up the environment.
-Syntax: django-admin startproject ecommerce_barun cd ecommerce_barun python manage.py migrate
+Syntax: django-admin startproject ecommerce_aarya cd ecommerce_aarya python manage.py migrate
 
 We ran the server if it was working. Then, we got the link for the server as 127.0.0.1:8000. Again, we verified the admin side using 127.0.0.1:8000/admin. We were able to create a superuser and other users. Syntax: python manage.py runserver
 Database verification and CRUD operations
 Then, we added a module product_module and migrated files to the database. Now, we were able to do CRUD operations on the server. Syntax: python manage.py startapp product_module ……. python manage.py runserver
 
 Source Control
-Finally, we used Git for source control. We created a repository with the name ecommerce_barun and created a markdown file “lab1.md” which is this document. Then, we committed and pushed the code and folder to the repository.
+Finally, we used Git for source control. We created a repository with the name ecommerce_barun and created a markdown file “lab1.md” which is this document. Then, we committed and pushed the code and folder to the repository.https://github.com/Aahrya/ecommerce_aarya/blob/main/product_module/Lab%20Manual/Lab1.md
+d. Output Installation of python| pip alt text
+
+Creation of project folder alt text
+
+Migration alt text
+
+Creating superuser alt text
+
+Running server alt text alt text
+
+Logging In alt text
+
+CRUD operation alt text
+
+Git initialization alt text
+e. In conclusion We learned a lot from the first e-commerce lab. The initial setup aided us in quickly creating environments and setting up. Then we knew how to start a Django project. It was also learned how to operate the server. On the server, we knew how to perform CRUD operations. Finally, we learned more about Git and Github for source control. Our code was easily available after we created a Github repository and shared it.
