@@ -2,7 +2,7 @@
 
 ## Objective 
 
-- To insert search feature in the product,brand and category model by the admin.
+- To insert search feature in the product model by the admin.
 
 ## Introduction
 
