@@ -15,7 +15,7 @@ We constructed a product module in our first lab. Then we'll add a brand, a prod
 
 ```
   class Brand(models.Model):
-    name = models.CharField(max_length=200)
+    name = models.CharField(max_length=200)~
     is_active = models.BooleanField()
 ```
 - **In the models.py file, add the model Category.**
