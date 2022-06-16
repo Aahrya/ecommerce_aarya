@@ -2,6 +2,9 @@ from django.shortcuts import render
 from django.db.models import Q
 from .models import Product, Brand, Category
 
+def index1(request):
+    return render(request, 'index1.html')
+
 def index(request):
     if request.method == "GET":
         category_id = request.GET.get("category")
